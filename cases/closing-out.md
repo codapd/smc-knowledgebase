@@ -21,7 +21,7 @@ For example: you get an aquittal at trial, your client is sentenced, the court f
    - place red file with green sheet in the filling box.
   
 ### 4.  Submit Notice of Withdrawel
-    - for cases in which you intend to withdraw then file: -
+   - for cases in which you intend to withdraw then file:
    - submit this file in the NOW drawer
      - you may not want to file a NOW for review cases, you should instead request a new credit.
 
@@ -30,5 +30,5 @@ For example: you get an aquittal at trial, your client is sentenced, the court f
    - You may also wish to not file a NOW
    - Instead of steps 1-4 send an email to: with the following:
       ''Case Name:''
-### 6. Legal Files
-    - be sure to enter all your time in LF to ensure you're over the 2 hour limit and everything is logged before the LF file is closed out.
+### 6. Legal Files 
+   - be sure to enter all your time in LF to ensure you're over the 2 hour limit and everything is logged before the LF file is closed out.
