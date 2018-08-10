@@ -1,6 +1,6 @@
 # TRIAL NOTEBOOK CHECKLIST
 ## SECTIONS
-## ##  TRIAL PLAN
+## TRIAL PLAN
 - Legal Research
 ##  Ordinance/statute and related cases, defenses
 - Pretrial
